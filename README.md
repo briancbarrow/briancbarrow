@@ -9,5 +9,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=briancbarrow&show_icons=true&&line_height=40)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briancbarrow&show_icons=true)
+[Deno talk - UtahJS 2022](https://youtu.be/_QEPbSFkKhI)
+[Flexbox talk - UtahJS 2017](https://youtu.be/umVA30H-4n4)
+
+![GitHub Stats]([https://github-readme-stats.vercel.app/api](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api)?username=briancbarrow&show_icons=true&&line_height=40)
+![Top Languages]([https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api)/api/top-langs/?username=briancbarrow&show_icons=true)
